@@ -1,5 +1,5 @@
 # groundwater_virome
-All used script and command for groundwater virome
+All used script and command for groundwater virome titled with "Virus impacted community adaptation in oligotrophic groundwater environment revealed by extensive virome and Hi-C sequencing"
 
 The virus identification pipeline could be found in the shell and R script of "v-contig identification.sh"
 
